@@ -63,7 +63,7 @@ public class Main {
         int temp = 0;
 
         for(int num :nums){
-            System.out.println(num);// testing
+            System.out.println(num);// testinge
         }
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < nums.length - 1; j++) {
